@@ -19,8 +19,7 @@ I love exploring new technologies and applying what I learn to real-world projec
 
 ## 📫 Contact Me
   Email: tamjidalamtajxxx@gmail.com 
-  Linkedin:(https://linkedin.com/in/Tamjid-Alam-Taj)  
-
+  
   ---
 ✨ _"Code is like humor. When you have to explain it, it’s bad."_ 
 
