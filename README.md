@@ -22,7 +22,7 @@ I love exploring new technologies and applying what I learn to real-world projec
   Facebook:https://www.facebook.com/tamjidalam.taj?mibextid=ZbWKwL
   
   ---
-✨ _"Code is like humor. When you have to explain it, it’s bad."
+✨ _"Code is like humor. When you have to explain it, it’s bad."-
 
 
 ### 💌 Thank You for Visiting!
