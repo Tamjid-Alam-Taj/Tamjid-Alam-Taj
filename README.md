@@ -24,7 +24,7 @@ I love exploring new technologies and applying what I learn to real-world projec
   ---
   ## 📊 My GitHub Contributions
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&hide_title=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tamjid-Alam-Taj&show_icons=true&count_private=true&hide=prs&hide_title=true&hide_border=true)
 
 ✨ _"Code is like humor. When you have to explain it, it’s bad."-
 ### 💌 Thank You for Visiting!
