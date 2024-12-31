@@ -23,6 +23,9 @@ I love exploring new technologies and applying what I learn to real-world projec
   
   ---
 ✨ _"Code is like humor. When you have to explain it, it’s bad."-
+## 🛠️ My GitHub Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=github)
+
 
 
 ### 💌 Thank You for Visiting!
