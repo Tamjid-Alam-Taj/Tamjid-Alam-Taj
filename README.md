@@ -22,12 +22,11 @@ I love exploring new technologies and applying what I learn to real-world projec
   Facebook:https://www.facebook.com/tamjidalam.taj?mibextid=ZbWKwL
   
   ---
+  ## 📊 My GitHub Contributions
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&hide_title=true&hide_border=true)
+
 ✨ _"Code is like humor. When you have to explain it, it’s bad."-
-## 🛠️ My GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=github)
-
-
-
 ### 💌 Thank You for Visiting!
 Feel free to contribute, star my projects, or just say hi!
 [![Say Hi](https://img.shields.io/badge/-Say%20Hi!-brightgreen?style=for-the-badge)](mailto:your-email@example.com)
