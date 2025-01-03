@@ -28,7 +28,7 @@ I love exploring new technologies and applying what I learn to real-world projec
 
 ✨ _"Code is like humor. When you have to explain it, it’s bad."-
 ### 💌 Thank You for Visiting!
-Feel free to contribute, star my projects, or just say hi!
+Feel free to contribute, star my projects, or just say hi
 [![Say Hi](https://img.shields.io/badge/-Say%20Hi!-brightgreen?style=for-the-badge)](mailto:your-tamjidalamtajxxx@gmail.com )
 
 
